@@ -1,6 +1,6 @@
 ### figma-dev
 
-Testing Figma API
+Testing Figma API integration with React + styled-components
 
 #### Scripts
 
